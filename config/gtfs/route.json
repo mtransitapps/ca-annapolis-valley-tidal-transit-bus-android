@@ -1,9 +1,31 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
+    "route_id_cleanup_regex": "^TL-",
+    "use_route_long_name_for_missing_route_short_name": true,
+    "route_short_name_cleaners": [
+        {
+            "regex": "^route\\s+",
+            "ignore_case": true
+        },
+        {
+            "regex": "\\d\\s+([A-Z]\\d)",
+            "ignore_case": true,
+            "replacement": "$1"
+        }
+    ],
+    "route_long_name_cleaners_not": [
+        {
+            "regex": "^route\\s+\\d(\\s+[A-Z]\\d)?",
+            "ignore_case": true
+        }
+    ],
     "default_route_long_name_enabled": true,
+    "direction_splitter_enabled_not": true,
     "direction_finder_enabled": true,
+    "trip_id_cleanup_regex": "^TL-",
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "stop_id_cleanup_regex": "^TL-",
     "stop_name_cleaners": []
 }
