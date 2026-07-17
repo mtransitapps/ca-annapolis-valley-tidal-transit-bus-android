@@ -47,7 +47,7 @@
 6220,'','Needs Convenience Store Kentville',45.07572,-64.49061,0,1658362
 6221,'','Main St EB @ Southview Ave',45.07270,-64.48502,0,1658363
 6222,'','Mainers Landing',45.07163,-64.47880,0,1658364
-6223,'','H And R Block New Minas',45.07168,-64.47411,0,1658365
+6223,'','H & R Block New Minas',45.07168,-64.47411,0,1658365
 6224,'','New Minas PharmaChoise',45.06934,-64.47059,0,1658366
 6225,'','New Minas Terminal',45.06975,-64.46547,0,1658367
 6226,'','Cr Dr EB @ School Of Esthetics',45.06921,-64.46172,0,1658368
@@ -396,7 +396,7 @@
 6896,'','Nova International EB',45.02858,-64.83133,0,1664351
 6897,'','Cranberry Acres',45.03009,-64.81461,0,1664352
 6898,'','Hwy 1 @ Aylesford Rd EB',45.02925,-64.80935,0,1664353
-6899,'','Country Stoves And Sunrooms',45.03022,-64.79810,0,1664354
+6899,'','Country Stoves & Sunrooms',45.03022,-64.79810,0,1664354
 6900,'','Tansy Patch Gardens',45.03049,-64.79658,0,1665027
 6901,'','Long Point Rd',45.03124,-64.79237,0,1665028
 6902,'','Annapolis Valley Peat Moss',45.03187,-64.77639,0,1665029
@@ -503,7 +503,7 @@
 7004,'','Needs Convenience Store Kentville',45.07572,-64.49061,0,1686173
 7005,'','Main St EB @ Southview Ave',45.07270,-64.48502,0,1686174
 7006,'','Mainers Landing',45.07167,-64.47873,0,1686175
-7007,'','H And R Block New Minas',45.07168,-64.47411,0,1686176
+7007,'','H & R Block New Minas',45.07168,-64.47411,0,1686176
 7008,'','New Minas PharmaChoise',45.06934,-64.47059,0,1686177
 7009,'','New Minas Terminal',45.06975,-64.46547,0,1686178
 7010,'','Cr Dr EB @ School Of Esthetics',45.06921,-64.46172,0,1686200
@@ -654,7 +654,7 @@
 7164,'','Annapolis Valley Peat Moss',45.03202,-64.77725,0,1687320
 7165,'','Hwy 1 @ Long Point Rd',45.03146,-64.79187,0,1687321
 7166,'','Tansy Patch Gardens',45.03078,-64.79551,0,1687322
-7167,'','Country Stoves And Sunrooms',45.03031,-64.79800,0,1687323
+7167,'','Country Stoves & Sunrooms',45.03031,-64.79800,0,1687323
 7168,'','Hwy 1 @ Aylesford Rd WB',45.02934,-64.80991,0,1687324
 7169,'','Cranberry Acres',45.03019,-64.81481,0,1687325
 7170,'','Nova International EB',45.02876,-64.83158,0,1687347
@@ -798,7 +798,7 @@
 9449,'','Nova International EB',45.02858,-64.83133,0,1749728
 9450,'','Cranberry Acres',45.03009,-64.81461,0,1749750
 9451,'','Hwy 1 @ Aylesford Rd EB',45.02925,-64.80935,0,1749751
-9452,'','Country Stoves And Sunrooms',45.03022,-64.79810,0,1749752
+9452,'','Country Stoves & Sunrooms',45.03022,-64.79810,0,1749752
 9453,'','Tansy Patch Gardens',45.03049,-64.79658,0,1749753
 9454,'','Long Point Rd',45.03124,-64.79237,0,1749754
 9455,'','Annapolis Valley Peat Moss',45.03187,-64.77639,0,1749755
@@ -894,7 +894,7 @@
 9545,'','Needs Convenience Store Kentville',45.07572,-64.49061,0,1750685
 9546,'','Main St EB @ Southview Ave',45.07270,-64.48502,0,1750686
 9547,'','Mainers Landing',45.07167,-64.47873,0,1750687
-9548,'','H And R Block New Minas',45.07168,-64.47411,0,1750688
+9548,'','H & R Block New Minas',45.07168,-64.47411,0,1750688
 9549,'','New Minas PharmaChoise',45.06934,-64.47059,0,1750689
 9550,'','New Minas Terminal',45.06975,-64.46547,0,1750711
 9551,'','Cr Dr EB @ School Of Esthetics',45.06921,-64.46172,0,1750712
@@ -1042,7 +1042,7 @@
 9693,'','Annapolis Valley Peat Moss',45.03202,-64.77725,0,1751799
 9694,'','Hwy 1 @ Long Point Rd',45.03146,-64.79187,0,1751800
 9695,'','Tansy Patch Gardens',45.03078,-64.79551,0,1751801
-9696,'','Country Stoves And Sunrooms',45.03031,-64.79800,0,1751802
+9696,'','Country Stoves & Sunrooms',45.03031,-64.79800,0,1751802
 9697,'','Hwy 1 @ Aylesford Rd WB',45.02934,-64.80991,0,1751803
 9698,'','Cranberry Acres',45.03019,-64.81481,0,1751804
 9699,'','Nova International EB',45.02876,-64.83158,0,1751805
