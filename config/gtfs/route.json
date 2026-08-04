@@ -12,6 +12,28 @@
             "regex": "\\d\\s+([A-Z]\\d)",
             "ignore_case": true,
             "replacement": "$1"
+        },
+        {
+            "comment": "remove ends with 'via ...'",
+            "regex": "\\s+via\\s+.*$",
+            "ignore_case": true
+        },
+        {
+            "regex": "\\s+-\\s+",
+            "replacement": "-",
+            "comment": "remove spaces around '-'"
+        }
+    ],
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "1-1",
+            "route_long_name": "Route 1 - 1 via Grand Pre",
+            "route_id": 7000001
+        },
+        {
+            "route_short_name": "1-2",
+            "route_long_name": "Route 1 - 2 via Port Williams",
+            "route_id": 23000001
         }
     ],
     "route_long_name_cleaners_not": [
